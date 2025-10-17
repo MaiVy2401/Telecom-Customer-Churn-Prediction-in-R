@@ -30,7 +30,7 @@ This analysis involves:
 ### Data Source
 The dataset used is the "Telcom Customer Churn" dataset, which contains customer demographics, account information, services signed up for, and churn status.
 
-* **Source:** [Link to your data source, e.g., Kaggle]
+* **Source:** Telecom-Customer-Churn.csv
 
 ---
 
@@ -93,6 +93,6 @@ This segmentation allows the retention team to focus its efforts and resources w
 ---
 
 ### Contact
-* **Author:** [Your Name]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **GitHub:** [Your GitHub Profile URL]
+* **Author:** Vy Nguyen
+* **LinkedIn:** (https://www.linkedin.com/in/vy-nguyen-295028258/)
+
